@@ -10,3 +10,4 @@
 /Users/aluno/Projects/ListMasterApp/ListMasterApp/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/aluno/Projects/ListMasterApp/ListMasterApp/obj/Debug/netstandard2.0/ListMasterApp.dll
 /Users/aluno/Projects/ListMasterApp/ListMasterApp/obj/Debug/netstandard2.0/ListMasterApp.pdb
+/Users/aluno/Projects/ListMasterApp/ListMasterApp/obj/Debug/netstandard2.0/ListMasterApp.csprojAssemblyReference.cache

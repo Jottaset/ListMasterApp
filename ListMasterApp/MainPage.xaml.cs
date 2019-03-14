@@ -11,9 +11,12 @@ namespace ListMasterApp
     {
         List<string> lista_de_valor = new List<string>();
 
+        int cont = 0;
         void AddItem(object sender, System.EventArgs e)
         {
-            lista_de_valor.Add("Meu Item Add");
+            lista_de_valor.Add("Meu Item Add" + cont);
+            cont ++;
+
         }
 
         void Checando(object sender, System.EventArgs e)
