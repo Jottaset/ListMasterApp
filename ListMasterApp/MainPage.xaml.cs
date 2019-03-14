@@ -9,10 +9,18 @@ namespace ListMasterApp
 {
     public partial class MainPage : ContentPage
     {
-        void Handle_Clicked(object sender, System.EventArgs e)
+        List<string> lista_de_valor = new List<string>();
+
+        void AddItem(object sender, System.EventArgs e)
         {
-            Navigation.PushAsync(new PageMinhaLista());
+            lista_de_valor.Add("Meu Item Add");
         }
+
+        void Checando(object sender, System.EventArgs e)
+        {
+            Navigation.PushAsync(new PageMinhaLista(lista_de_valor));
+        }
+
 
         public MainPage()
         {

@@ -14,10 +14,11 @@ namespace ListMasterApp
             "Item 03"
         });
 
-        public PageMinhaLista()
+        public PageMinhaLista(List<string> listaOrigemDesconhecida)
         {
             InitializeComponent();
-            minhaLista.ItemsSource = lista_conteudo;
+            minhaLista.ItemsSource = listaOrigemDesconhecida;
+
         }
     }
 }

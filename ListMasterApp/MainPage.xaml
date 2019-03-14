@@ -13,10 +13,16 @@
                HorizontalOptions="Center" 
                VerticalOptions="CenterAndExpand"/>
         
+        <Button Text="Adicionar Item"
+                HorizontalOptions="Center"
+                VerticalOptions="CenterAndExpand"
+                Clicked="AddItem"/>
+                
+        
         <Button Text="Checar Lista"
                 HorizontalOptions="Center"
                 VerticalOptions="CenterAndExpand"
-                Clicked="Handle_Clicked"/>
+                Clicked="Checando"/>
         
     </StackLayout>
     
