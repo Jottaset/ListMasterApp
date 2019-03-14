@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{28887D90-A5DF-466C-9B86-A3479B36D80B}|Default">
+  <MonoDevelop.Ide.ItemProperties.ListMasterApp.Android PreferredExecutionTarget="Android.5711d61d" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListMasterApp/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ListMasterApp/MainPage.xaml.cs" Line="12" Column="63" />
+      <File FileName="ListMasterApp/MainPage.xaml" Line="19" Column="33" />
+      <File FileName="ListMasterApp/PageMinhaLista.xaml" Line="11" Column="32" />
+      <File FileName="ListMasterApp/PageMinhaLista.xaml.cs" Line="10" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListMasterApp" expanded="True">
+            <Node name="ListMasterApp" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+              <Node name="PageMinhaLista.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ListMasterApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
