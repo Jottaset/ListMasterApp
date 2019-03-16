@@ -14,9 +14,14 @@ namespace ListMasterApp
         int cont = 0;
         void AddItem(object sender, System.EventArgs e)
         {
-            lista_de_valor.Add("Meu Item Add" + cont);
+            lista_de_valor.Add("Meu Item Add " + cont.ToString("D2"));
             cont ++;
 
+        }
+
+        void Handle_Clicked(object sender, System.EventArgs e)
+        {
+            lista_de_valor.Add(valor_digitado.Text);
         }
 
         void Checando(object sender, System.EventArgs e)
